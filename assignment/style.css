@@ -5,7 +5,8 @@ header {
 }
 
 main {
-  background-color: #696969
+  background-color: #696969;
+  padding: 1em;
 }
 
 /* body {
@@ -13,9 +14,20 @@ main {
 } */
 
 body {
+
+  /* body {
+    background-image: url(record.png)
+  } */
+
   background: url(../assignment/record.png);
+  margin: 0;
 }
 
 p{
+  color: white;
+}
+
+ul{
+  background-color: black;
   color: white;
 }
