@@ -1,0 +1,21 @@
+header {
+  background-color: #000324;
+  color: white;
+  text-align: center;
+}
+
+main {
+  background-color: #696969
+}
+
+/* body {
+  background-image: url(record.png)
+} */
+
+body {
+  background: url(../assignment/record.png);
+}
+
+p{
+  color: white;
+}
